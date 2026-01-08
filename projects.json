@@ -1,0 +1,16 @@
+﻿{
+  "status": "success",
+  "result": [
+    {
+      "projectId": "project-setup-8d56e",
+      "projectNumber": "179326945864",
+      "displayName": "Project Setup",
+      "name": "projects/project-setup-8d56e",
+      "resources": {
+        "hostingSite": "project-setup-8d56e"
+      },
+      "state": "ACTIVE",
+      "etag": "1_9b5fe5e3-3fa0-4b61-b01f-76e70bf65d64"
+    }
+  ]
+}
